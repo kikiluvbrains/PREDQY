@@ -22,6 +22,7 @@ To clone the PREDQY repository and navigate into the project directory, follow t
    git clone git@github.com:kikiluvbrains/PREDQY.git
 
 3. Navigate to the cloned repository
+   ```
    cd PREDQY
 
 
@@ -32,6 +33,7 @@ Then install the required packages using `pip`:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ### Finally, run the application
+```
 python plqy_app.py
