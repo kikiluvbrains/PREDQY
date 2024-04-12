@@ -1,7 +1,4 @@
-# PREDQY
-This software can predict the PLQY after giving it two ligands in the form of smile string. 
-
-# PLQY Predictor
+# PLQY Predictor (PREDQY)
 
 ## Overview
 The PLQY Predictor is a Python-based graphical user interface (GUI) application that allows users to input two SMILES (Simplified Molecular Input Line Entry System) strings and get a prediction of the Photoluminescence Quantum Yield (PLQY).
@@ -12,12 +9,29 @@ Before running the PLQY Predictor, ensure you have the following installed:
 - `pip` for installing Python packages
 - (Optional) A virtual environment manager like `conda` or `venv`
 
+
+### Cloning the Repository
+
+To clone the PREDQY repository and navigate into the project directory, follow these steps:
+
+1. Open a terminal or command prompt.
+
+2. Clone the repository using the following command:
+
+   ```bash
+   git clone git@github.com:kikiluvbrains/PREDQY.git
+
+3. Navigate to the cloned repository
+   cd PREDQY
+
+
 ## Installation
 
 ### Using pip
-First, clone the repository or download the source code to your local machine. Then navigate to the root directory of the application and install the required packages using `pip`:
+Then install the required packages using `pip`:
 
 ```bash
 pip install -r requirements.txt
 
+### Finally, run the application
 python plqy_app.py
