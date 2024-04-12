@@ -1,5 +1,8 @@
 # PLQY Predictor (PREDQY)
 
+## MIT License
+MIT License. Free to use.
+
 ## Overview
 The PLQY Predictor is a Python-based graphical user interface (GUI) application that allows users to input two SMILES (Simplified Molecular Input Line Entry System) strings and get a prediction of the Photoluminescence Quantum Yield (PLQY).
 
@@ -37,3 +40,5 @@ pip install -r requirements.txt
 ### Finally, run the application
 ```
 python plqy_app.py
+```
+
