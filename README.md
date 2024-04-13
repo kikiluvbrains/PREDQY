@@ -12,6 +12,24 @@ Before running the PLQY Predictor, ensure you have the following installed:
 - `pip` for installing Python packages
 - (Optional) A virtual environment manager like `conda` or `venv`
 
+## Dependencies
+
+- You can download the model from [here](https://drive.google.com/file/d/1b0WcDrditJLWqhSaCdE9QgCCqXAeqtQl/view?usp=drive_link).
+
+- copy PLQY_ORIG.keras into a folder called "model"
+
+  
+To write a file structure in a GitHub README or similar markdown document, you would typically use a code block to represent the directory and file layout. For the given file structure, which includes a directory named models and a file named play_app, you could represent it like this:
+
+```
+PREDQY/
+├── models/               # Directory containing model files
+│   └── PLQY_ORIG.keras   # Keras model file
+└── play_app              # Executable or script file
+│
+└── requirements          # requirements
+```
+
 
 ### Cloning the Repository
 
