@@ -25,7 +25,7 @@ To write a file structure in a GitHub README or similar markdown document, you w
 PREDQY/
 ├── models/               # Directory containing model files
 │   └── PLQY_ORIG.keras   # Keras model file
-└── play_app              # Executable or script file
+└── play_app              # python script file
 │
 └── requirements          # requirements
 ```
