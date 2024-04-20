@@ -14,7 +14,7 @@ Before running the PLQY Predictor, ensure you have the following installed:
 
 ## Dependencies
 
-- You can download the model from [here](https://drive.google.com/file/d/1b0WcDrditJLWqhSaCdE9QgCCqXAeqtQl/view?usp=drive_link).
+- You can download the model from [here](https://drive.google.com/drive/u/1/folders/1kqHjEo4z5aOUw9aQf7mNxjz8u_MwgJJ9).
 
 - copy PLQY_ORIG.keras into a folder called "model"
 
